@@ -1,0 +1,25 @@
+{
+	"nav" : {
+		"about_me" : "Qui suis-je ?",
+		"skills" : "Qu’est-ce que je fais ?",
+		"contact" : "Contactez-moi"
+	},
+	"title" : {
+		"subtitle" : "Développeur de platform Windows",
+		"mobile" : "Développement mobile",
+		"web" : "Programmation web",
+		"blog" : "Articles de mon blog",
+		"contact" : "Contactez-moi"
+	},
+	"mobile" : {
+		"first" : "À l'actualité, je suis un software développeur dans l'équipe de développement de Geomobile pour Windows.",
+		"second" : "Je construis App pour Windows 8.1, Windows Phone 8.1 et Windows 10. Ainsi, je suis un fan de XAML et un amant de C#. D'ailleurs, j'ai développé des Apps pour le système d'Android pendant mon étape d'étudiant. Même si je ne suis pas un grand fan d'Android, j'ai construit de multiples types d'App pour ce système, comme des caddies ou des guides touristiques."
+	},
+	"web" : {
+		"first" : "Après travailler dans Indra les deux dernières années, en faisant du logiciel de gestion pour le gouvernement local grâce aux technologies web, je peux dire que je connais les bases des technologies web plus communes (HTML5, CSS2 et 3, JavaScript) dans un niveau moyen-haut.",
+		"second" : "Ce site est créé avec des technologies modernes, comme TypeScript, Gulp, LESS et d’autres ; il est aussi un exercice d’autoapprentissage."
+	},
+	"contact" : {
+		"first" : "Si vous avez des questions, projet ou discussion sur XAML, C#, Windows 8/10 sur lesquels je puisse vous aider, je serai ravi de que vous contactez avec moi à travers d'un des icônes de dessus."
+	}
+}

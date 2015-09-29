@@ -1,0 +1,25 @@
+{
+	"nav" : {
+		"about_me" : "About me",
+		"skills" : "What I do",
+		"contact" : "Contact"
+	},
+	"title" : {
+		"subtitle" : "A Windows Platform proto-developer",
+		"mobile" : "Mobile Development",
+		"web" : "Web Development",
+		"blog" : "Blog's articles",
+		"contact" : "Contact"
+	},
+	"mobile" : {
+		"first" : "At the moment, I am a software developer in the Geomobile's Windows development team.",
+		"second" : "I build applications for Windows 8.1, Windows Phone 8.1 and Windows 10. I am also a XAML fan and a C# lover. Besides, I developed App for Android when I was a student. Though I am not a big Android fan, I have built numerous types of App for this system, like shopping carts or touristic guides."
+	},
+	"web" : {
+		"first" : "After working in Indra the last two years for the local Government's administration software using web technologies, I can say that I know the web technologies' basis more commons (HTML5, CSS2 and 3, JavaScript) in a medium-high level.",
+		"second" : "This website is built with modern web technologies like TypeScript, Gulp, LESS and others. It is also an exercise of auto didacticism."
+	},
+	"contact" : {
+		"first" : "If you have any question, project or discussion —about XAML, C#, Windows 8/10 that you think I may help you out, I will be glad for you to contact me through one of the icons above."
+	}
+}
